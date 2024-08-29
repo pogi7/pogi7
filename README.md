@@ -96,6 +96,36 @@ I'm Aaron Levitt. I like to code, design, and learn new things.  Current CS grad
     - 2021 - 2022 
 - ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
     - 2021 - 2022
+ 
+## Current Projects
+
+### [LuminosityLEDs](https://github.com/luminosityleds) | Personal Open Source Project | Project Manager
+A full stack webapp that allows users to change the brightness, color, and powered state of LEDs connected to a Raspberry Pi.  Illuminate individual expression and creativity.
+
+#### Tech Stack
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![Git](https://img.shields.io/badge/-Git-097969?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C74634?style=for-the-badge&logo=oracle)
+![Figma](https://img.shields.io/badge/-Figma-a259ff?style=for-the-badge&logo=figma)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=000&style=for-the-badge)
+
+### [OML Vision](https://github.com/opencaesar/oml-vision) | Professional Open Source Project | Technical Project Lead
+A VSCode Extension that allows users to change OML models.
+
+#### Tech Stack
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![Git](https://img.shields.io/badge/-Git-097969?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-a259ff?style=for-the-badge&logo=figma)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=000&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-555555?style=for-the-badge&logo=github)
 
 ## ⚡ Fun fact
 My username, which means handsome in Tagalog, is what my grandpa would call me when I was being good 😼  
