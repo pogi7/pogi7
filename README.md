@@ -70,7 +70,8 @@ I'm Aaron Levitt. I like to code, design, and learn new things.  Current CS grad
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-555555?style=for-the-badge&logo=github)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 2022 - present
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
