@@ -86,7 +86,7 @@ I'm Aaron Levitt. I like to code, design, and learn new things.  Current CS grad
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-C74634?style=for-the-badge&logo=oracle)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0c0c0c?style=for-the-badge&logo=kubernetes)
-![Figma](https://img.shields.io/badge/-Figma-a259ff?style=for-the-badge&logo=figma)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
  
 ### 2023 - present 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF)
