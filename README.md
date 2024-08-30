@@ -97,7 +97,7 @@ I'm Aaron Levitt. I like to code, design, and learn new things.  Current CS grad
 - ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
     - 2021 - 2022
  
-## Current Projects
+## 🌱 Current Projects
 
 ### [LuminosityLEDs](https://github.com/luminosityleds) | Personal Open Source Project | Project Manager
 A full stack webapp that allows users to change the brightness, color, and powered state of LEDs connected to a Raspberry Pi.  Illuminate individual expression and creativity.
