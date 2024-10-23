@@ -2,7 +2,7 @@
 
 ## 🚀 Summary
 
-I'm Aaron Levitt. I like to code, design, and learn new things.  Current CS grad student at [Georgia Tech](https://www.gatech.edu) and work for [NASA JPL](https://www.jpl.nasa.gov). I'm a huge open source advocate, love to design, and always open to colloborating on ground-breaking/innovative ideas. Feel free to connect with me! :)
+I'm Aaron Levitt. I like to code, design, and learn new things.  Current CS grad student at [Georgia Tech](https://www.gatech.edu) and work for [NASA JPL](https://www.jpl.nasa.gov). I'm a huge open source advocate, love to design, and always open to collaborating on ground-breaking/innovative ideas. Feel free to connect with me! :)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aaron%20Levitt-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aaron-levitt-91534620a)](https://www.linkedin.com/in/aaron-levitt-91534620a)
 [![Gmail Badge](https://img.shields.io/badge/-aaronlevitt7@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aaronlevitt7@gmail.com)](mailto:aaronlevitt7@gmail.com)
