@@ -84,7 +84,7 @@ I'm Aaron Levitt. I like to code, design, and learn new things.  Current CS grad
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon)
-![Next JS](https://img.shields.io/badge/Vercel-7A5EFB?style=for-the-badge&logo=vercel)
+![Next JS](https://img.shields.io/badge/-NextJs-7A5EFB?style=for-the-badge&logo=Next.js)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0c0c0c?style=for-the-badge&logo=kubernetes)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
  
@@ -109,7 +109,7 @@ A full stack webapp that allows users to change the brightness, color, and power
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker)
-![Next JS](https://img.shields.io/badge/Vercel-7A5EFB?style=for-the-badge&logo=vercel)
+![Next JS](https://img.shields.io/badge/-NextJs-7A5EFB?style=for-the-badge&logo=Next.js)
 ![Figma](https://img.shields.io/badge/-Figma-a259ff?style=for-the-badge&logo=figma)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=000&style=for-the-badge)
