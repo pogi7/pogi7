@@ -97,10 +97,10 @@ I'm Aaron Levitt. I like to code, design, and learn new things.  Current CS grad
 - ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
     - 2021 - 2022
  
-## 🌱 Current Projects
+## 🌱 Projects
 
 ### [LuminosityLEDs](https://github.com/luminosityleds) | Personal Open Source Project | Project Manager | 2022 - present
-A full stack webapp that allows users to change the brightness, color, and powered state of LEDs connected to a Raspberry Pi.  Illuminate individual expression and creativity.
+An IoT app that allows users to change the brightness, color, and powered state of LEDs connected to a Raspberry Pi.  Illuminate individual expression and creativity.
 
 #### Tech Stack
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -114,7 +114,7 @@ A full stack webapp that allows users to change the brightness, color, and power
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=000&style=for-the-badge)
 
-### [OML Vision](https://github.com/opencaesar/oml-vision) | Professional Open Source Project | Technical Project Lead | 2023 - present
+### [OML Vision](https://github.com/opencaesar/oml-vision) | Professional Open Source Project | Technical Project Lead | 2023 - 2025
 A VSCode Extension that allows users to change OML models.
 
 #### Tech Stack
